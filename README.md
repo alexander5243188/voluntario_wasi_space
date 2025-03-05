@@ -1,9 +1,11 @@
 # ***voluntario_wasi_space***
 ***
 ## ***Taller de programación con Python y JavaScript***
+
 1. _[Adivina el número](https://github.com/alexander5243188/voluntario_wasi_space/blob/main/tp%20python%20js/juego%20adivina%20numero/adivina.py)_
+
+   ![adivina](/tp%20python%20js/juego%20adivina%20numero/img/adivina.png)  
    
-   ![adivina](/tp%20python%20js/juego%20adivina%20numero/img/adivina.png)
 2. _Chatbot básico_
 3. _Generador de contraseñas_
 4. _Dibujos de turtle_
