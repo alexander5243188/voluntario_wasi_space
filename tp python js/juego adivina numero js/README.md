@@ -11,3 +11,4 @@
     5. Conversión de tipos (`parseInt()`).
 
 ## Captura de imagen
+![adivina](/tp%20python%20js/juego%20adivina%20numero%20js/img/adivina.png)
